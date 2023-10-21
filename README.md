@@ -4,6 +4,6 @@ Este script creará una nueva máquina con el nombre que le indiquemos, con un v
 
 Para que el script funcione debes especificarle los siguientes parámetros de entrada:
 
--> Nombre de la máquina
--> Tamaño del volumen
--> Nombre de la red a la que se conectará la máquina
+Nombre de la máquina
+Tamaño del volumen
+Nombre de la red a la que se conectará la máquina
